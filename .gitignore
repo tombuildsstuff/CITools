@@ -1,0 +1,15 @@
+*.suo
+*.user
+*.vssscc
+*.vspscc
+MSSCCPRJ.SCC
+bin
+obj
+.DS_Store
+packages/
+Headscape.Cms.Web/files/*
+_ReSharper*/
+Headscape.Cms.Web/design/wireframes/*
+*.Publish.xml
+Headscape.Cms.Web/files/*
+*.Tests.xml
